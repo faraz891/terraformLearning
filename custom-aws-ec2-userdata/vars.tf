@@ -6,5 +6,5 @@ variable "aws_instance_name" {
 }
 variable "aws_instance_my_infra_ami" { 
   type = string
-  default = "ami-0a9d27a9f4f5c0efc"
+  default = "ami-0ca285d4c2cda3300"
 }
